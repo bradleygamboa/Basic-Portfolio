@@ -1,0 +1,78 @@
+header{
+
+		position: fixed;
+		background-color: #00b690;
+		width: 250px;
+		margin-left: 200px
+		
+}
+
+nav{
+		position: fixed;
+		top: 50px;
+		right: 50px;
+		width: 20%;
+
+}
+
+body{
+		
+		background-color: #e8e6c5;
+
+}
+
+h1{
+
+	color: white;
+	text-align: center;
+
+}
+
+h2{
+
+	color: #00b690;
+}
+
+h5{
+	text-align: center;
+
+}
+
+
+.container{
+ 
+		background-color: #888888;
+		width: 1024px;
+		margin-left: 200px;
+
+}
+
+.main-bio{
+		position: fixed;
+		top: 100px;
+		width: 50%;
+		background-color: white;
+		padding: 10px 10px 10px 10px;
+
+}
+
+.contact-me{
+		position: fixed;
+		top: 100px;
+		right: 100px;
+		width: 16%;
+		background-color: white;
+		margin-left: 10px;
+
+	}
+
+
+.footer{
+		position: fixed;
+		bottom: 0;
+		width: 100%;
+		background-color: grey;
+		padding: 10px;
+		margin-left: -10px;
+
+}
