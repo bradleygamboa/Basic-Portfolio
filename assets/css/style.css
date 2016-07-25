@@ -55,6 +55,11 @@ aside{
 
 }
 
+.links{
+
+
+
+}
 
 .container{
  
@@ -67,9 +72,22 @@ aside{
 .main-bio{
 		position: fixed;
 		top: 120px;
+		left: 208px;
 		width: 50%;
 		background-color: white;
 		padding: 10px 10px 10px 10px;
+
+}
+
+.form{
+
+		position: fixed;
+		top: 120px;
+		left: 210px;
+		width: 50%;
+		background-color: white;
+		padding: 10px 10px 10px 10px;
+
 
 }
 
