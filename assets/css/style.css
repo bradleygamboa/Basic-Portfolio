@@ -63,6 +63,11 @@ header{
 		padding: 24px 20px 24px 20px;
 }
 
+nav{
+		float: left;
+		margin: 0px 0px 0px 750px;
+}
+
 header-1{
 
 		position: fixed;
@@ -179,11 +184,6 @@ image-5{
 
 }
 
-nav{
-		float: left;
-		margin: 0px 0px 0px 750px;
-}
-
 
 .contact-me{
 		float: left;
@@ -199,8 +199,8 @@ nav{
 		float: left;	
 		width: 100%;
 		background-color: grey;
-		padding: 27px 20px 27px 20px;
-		margin: 69px 0px 0px 0px;
+		padding: 27px 0px 27px 0px;
+		margin: 43px 0px 0px 0px;
 		border-top: 6px #00b690 solid;
 		font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 		font-size: 10px;
